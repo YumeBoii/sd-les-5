@@ -18,3 +18,5 @@ Cook: Cook for 2 to 3 minutes per side, until golden and the cheese has melted. 
 Slice & serve: Cut into triangles and serve hot with salsa or sour cream.
 
 Tip: For extra crunch, don't overcrowd the tortilla and cook over medium rather than high heat.
+
+![quasadilla](images/quasadilla.png)
